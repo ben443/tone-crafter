@@ -1,0 +1,6 @@
+{
+  "name": "ToneCrafter",
+  "description": "Generate Boss GT-1 TSL patches using Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
